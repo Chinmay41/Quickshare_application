@@ -3,13 +3,20 @@ Quickshare is a user-friendly file-sharing application designed for seamless fil
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/Chinmay41/Quickshare_application.git
+```bash
+  git clone https://github.com/Chinmay41/Quickshare_application.git
+```
 
 2. Navigate to the project directory:
+```bash
 cd Quickshare_application
+```
+
 ##Usage
-1. Run the application
+1. Run the application:
+```bash
 python Quickshare_application.py
+```
 
 
 
